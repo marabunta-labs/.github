@@ -17,9 +17,9 @@ The goal is simple and brutal: **Build and launch a tech product every 30 days i
 
 | Month | Project | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **Jan** | [AWS CDK Visualizer](https://github.com/marabunta-labs/aws-cdk-viz) | VS Code extension for infra viz | 🟡 Building |
-| **Feb** | SQL Diagram Gen | VS Code extension for SQL diagrams | 🔒 Locked |
-| **Mar** | ??? | CLI Tool | 🔒 Locked |
+| **Jan** | [CDK StackMap](https://github.com/marabunta-labs/cdk-stackmap) | VS Code extension for infra viz | 🟢 Launched |
+| **Feb** | [File Scout](https://github.com/marabunta-labs/file-scout) | VS Code extension for file exploration | 🟢 Launched |
+| **Mar** | ??? | CLI Tool | 🟡 Building |
 | **Apr** | ??? | AI ChatBot | 🔒 Locked |
 | **May** | ??? | AI Recommender | 🔒 Locked |
 | **Jun** | ??? | Music Generator | 🔒 Locked |
