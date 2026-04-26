@@ -20,8 +20,8 @@ The goal is simple and brutal: **Build and launch a tech product every 30 days i
 | **Jan** | [CDK StackMap](https://github.com/marabunta-labs/cdk-stackmap) | VS Code extension for infra viz | 🟢 Launched |
 | **Feb** | [File Scout](https://github.com/marabunta-labs/file-scout) | VS Code extension for file exploration | 🟢 Launched |
 | **Mar** | [Movie Ascii](https://github.com/marabunta-labs/movie-ascii) | CLI Tool for video/images in terminal | 🟢 Launched |
-| **Apr** | ??? | AI ChatBot | 🟡 Building |
-| **May** | ??? | AI Recommender | 🔒 Locked |
+| **Apr** | [T&C Ninja](https://github.com/marabunta-labs/tc-ninja) | AI ChatBot to assist with terms and conditions | 🟢 Launched |
+| **May** | ??? | AI Recommender | 🟡 Building |
 | **Jun** | ??? | Music Generator | 🔒 Locked |
 | **Jul** | ??? | Telegram Bot | 🔒 Locked |
 | **Aug** | ??? | QR Manager | 🔒 Locked |
