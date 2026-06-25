@@ -22,9 +22,9 @@ The goal is simple and brutal: **Build and launch a tech product every 30 days i
 | **Mar** | [Movie Ascii](https://github.com/marabunta-labs/movie-ascii) | CLI Tool for video/images in terminal | 🟢 Launched |
 | **Apr** | [T&C Ninja](https://github.com/marabunta-labs/tc-ninja) | AI ChatBot to assist with terms and conditions | 🟢 Launched |
 | **May** | [TeaserFlix](https://github.com/marabunta-labs/teaserflix) | Scrolling platform with trailers | 🟢 Launched |
-| **Jun** | ??? | Music Generator | 🟡 Building |
-| **Jul** | ??? | Telegram Bot | 🔒 Locked |
-| **Aug** | ??? | QR Manager | 🔒 Locked |
+| **Jun** | [Safe QR Scanner](https://github.com/marabunta-labs/safe-qr-scanner) | QR Manager | 🟢 Launched |
+| **Jul** | ??? | Telegram Bot | 🟡 Building |
+| **Aug** | ??? | Music Generator | 🔒 Locked |
 | **Sep** | ??? | Messaging Tool | 🔒 Locked |
 | **Oct** | ??? | Maps Web App | 🔒 Locked |
 | **Nov** | ??? | Web Game | 🔒 Locked |
