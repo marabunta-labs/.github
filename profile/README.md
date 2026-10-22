@@ -26,7 +26,7 @@ The goal is simple and brutal: **Build and launch a tech product every 30 days i
 | **Jul** | [Typotris](https://github.com/marabunta-labs/typotris) | Tetris board whose gaps spell your message | 🟢 Launched |
 | **Aug** | [PlatoPlan](https://github.com/marabunta-labs/platoplan) | Meal planner with smart shopping lists | 🟢 Launched |
 | **Sep** | [CumplePing](https://github.com/marabunta-labs/cumpleping) | Telegram bot for birthday reminders | 🟢 Launched |
-| **Oct** | ??? | Maps Web App | 🔒 Locked |
+| **Oct** | [Face Brawl](https://github.com/marabunta-labs/face-brawl) | Browser fighting game where your photo becomes a pixel-art fighter | 🟢 Launched |
 | **Nov** | ??? | Web Game | 🔒 Locked |
 | **Dec** | ??? | **Grand Finale** | 🔒 Locked |
 
